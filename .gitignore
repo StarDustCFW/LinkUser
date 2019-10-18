@@ -1,0 +1,13 @@
+External/*
+Include/*
+build/*
+Include/*
+libs/*
+source/*
+romfs/*
+*.cmd
+*.rar
+*.zip
+Makefile
+*.elf
+*.nacp
